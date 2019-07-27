@@ -1,0 +1,11 @@
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 6px solid black;
+}
+.First_name,.Last_name,.Email,.Password{
+	width: 80%;
+	height: 5px;
+	padding: 14px;
+	font-size: 15px;
+}
